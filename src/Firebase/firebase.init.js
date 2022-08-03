@@ -20,4 +20,11 @@ Step-2
 1.create login componenet
 2.create register componenet
 3.create route for login and register
+ 
+---------------------------
+step-3
+1.set up sign in method 
+2. setup sign out method 
+3. user state 
+4.special observer
 */
