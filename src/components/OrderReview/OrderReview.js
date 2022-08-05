@@ -18,9 +18,9 @@ const OrderReview = () => {
     };
 
     const handlePlaceOrder = () => {
-        setCart([]);
-        clearTheCart();
-        history('/placeorder');
+        // setCart([]);
+        // clearTheCart();
+        history('/shipping');
     };
 
     return ( <
@@ -41,7 +41,7 @@ const OrderReview = () => {
         <
         button onClick = { handlePlaceOrder }
         className = "btn-regular" >
-        Place Order { ' ' } <
+        proceed to shipping { ' ' } <
         /button>{' '} <
         /Cart>{' '} <
         /div>{' '} <
