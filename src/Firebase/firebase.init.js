@@ -39,4 +39,8 @@ step:4 crate auth context hook
 step:5 create private route
 1.create private route
 2.set private route
+-----------------------------
+step:6
+1.navigate after login it's not work
+2.after login navigate user 
 */
